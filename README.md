@@ -84,5 +84,5 @@ An earlier electricity-management web application with a customer portal — the
 ## 📫 Reach me
 
 <!-- EDIT: replace the two links below. LinkedIn: your profile address. Email: your address (it will be public). -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EDIT-YOUR-LINKEDIN-NAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EDIT-YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokilan42)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.kokilen@otmail.com)
