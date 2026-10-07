@@ -5,7 +5,7 @@
 I like the place where **electronics meets software**: sensors and microcontrollers that send real data to web
 dashboards people can actually use.
 
-I'm still early in my web-development and database journey. I use AI coding assistants when I build, and I always say
+I'm early in my software journey, building across web, desktop and backend with Java, Python and JavaScript. I use AI coding assistants when I build, and I always say
 so openly in the project README.
 
 ---
@@ -69,7 +69,7 @@ React portals for customers and admins.
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![IoT](https://img.shields.io/badge/-IoT-555555?style=flat-square)
 
-### [Nithu Institute Management System](https://github.com/kokilan-47/Nithu-Institute-Management-System) — desktop app
+### [Student Management System](https://github.com/kokilan-47/Student-Management-System) — desktop app
 
 A JavaFX desktop application for managing students at an institute. Staff register students together with their
 parent or guardian, search and edit records, and access is **role-based (Admin / Staff)** with salted PBKDF2 password
@@ -96,11 +96,6 @@ FastAPI + SQLAlchemy, pytest suite (including a live API test) and GitHub Action
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### More
-
-- [BookMyBus](https://github.com/kokilan-47/BookMyBus_Figma) — mobile bus-ticket booking app prototype designed in Figma.
-- [Electricity Management Web App](https://github.com/kokilan-47/Web-Application-for-Electricity-Management) — an earlier electricity-management web application with a customer portal, the first step towards the Smart Meter System.
 
 ---
 
